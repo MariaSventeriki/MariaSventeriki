@@ -1,2 +1,4 @@
-### Hi there, it´s Maria 👋	U+1F469
+### Hi there, it´s Maria 👋👩🏼‍💻
+
+![](maria.gif)
 
