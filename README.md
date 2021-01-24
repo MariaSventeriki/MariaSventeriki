@@ -1,6 +1,6 @@
 # Hi there, it´s Maria 👋👩🏼‍💻
 
-![](Maria.gif)
+                                             ![](Maria.gif)
 
 
 * I am a Web Developer in the making with a passion for acting and chocolate. 
