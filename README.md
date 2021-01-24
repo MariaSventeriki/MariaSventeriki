@@ -3,8 +3,8 @@
    ![](Maria.gif)
 
 
-* I am a Web Developer in the making with a passion for acting and chocolate. 
-* My coding journey started with **HTMl,CSS ,Sass, Bootstrap**.
+* I am a Web Developer in the making with a passion for acting 🎭 and chocolate 🍫. 
+* My coding ⌨️ journey started with **HTMl,CSS ,Sass, Bootstrap**.
 * Currently learning (i mean burning my brains) **JavaScript**.
 * Will learn **React , Node Js**.
 #### Feel free to reach me 🌍 :
