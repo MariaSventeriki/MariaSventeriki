@@ -4,7 +4,7 @@
 
 
 * I am a Web Developer in the making with a passion for acting 🎭 and chocolate 🍫. 
-* My coding ⌨️ journey started with **HTMl,CSS ,Sass, Bootstrap**.
+* My coding ⌨️ journey started with **HTML,CSS ,Sass, Bootstrap**.
 * Currently learning (i mean burning my brains) **JavaScript**.
 * Will learn **React , Node Js**.
 #### Feel free to reach me 🌍 :
