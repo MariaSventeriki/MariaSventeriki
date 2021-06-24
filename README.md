@@ -1,6 +1,6 @@
 # Hi there, it´s Maria 👋👩🏼‍💻
 
-   ![](e6672469d1661fae65b49987b2d74329791422a6#commitcomment-52610761)
+   ![]()
 
 
 * I am a Web Developer in the making with a passion for acting 🎭 and chocolate 🍫. 
