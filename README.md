@@ -5,7 +5,6 @@
 [Blossom](https://github.com/aegli84/aegli84) [Spirit](https://github.com/NicklausDim).
 # Tech tools 
 <img with= "100" height= "100" src= "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
-<br>
 <img with= "100" height= "100" src= "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 
 
