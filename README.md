@@ -14,11 +14,11 @@
 <img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png"/>
 <img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"/>
 <img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png"/>
-<img with= "80" height= "80" src= "https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png"/>
-<img with= "80" height= "80" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png"/>
+<img with= "60" height= "60" src= "https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png"/>
+<img with= "60" height= "60" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png"/>
 <img with= "80" height= "80" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1200px-Slack_icon_2019.svg.png"/>
 <img with= "80" height= "80" src= "https://www.icescrum.com/wp-content/uploads/2020/03/logo-1.png"/>
-<img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-256/figma-682083.png"/>
+<img with= "90" height= "90" src= "https://cdn.iconscout.com/icon/free/png-256/figma-682083.png"/>
 <img with= "60" height= "60" src= "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 <img with= "80" height= "80" src= "https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
 <img with= "80" height= "80" src= "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/>
