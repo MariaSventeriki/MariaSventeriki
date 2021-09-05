@@ -8,7 +8,7 @@
 [Blossom](https://github.com/aegli84/aegli84) [Spirit](https://github.com/NicklausDim).
 
 # Tech tools 
-<ul width= "80" height= "80">
+<ul width= "50" height= "50">
 <img with= "80" height= "80" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/>
 <img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 <img with= "80" height= "80" src= "https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
