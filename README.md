@@ -4,7 +4,7 @@
 * * Currently working on the final project "Plantpedia" with my team 
 [Blossom](https://github.com/aegli84/aegli84) [Spirit](https://github.com/NicklausDim).
 # Tech tools 
-<img with= "100" height= "100" src= "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
+<img with= "100" height= "100" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/>
 <img with= "100" height= "100" src= "https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 <img with= "100" height= "100" src= "https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
 <img with= "100" height= "100" src= "https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg"/>
