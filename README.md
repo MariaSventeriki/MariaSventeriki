@@ -7,7 +7,7 @@
 #### Feel free to reach me 🌍 :
 mariasventeriki@gmail.com or [Linkedin](https://www.linkedin.com/in/maria-sventeriki-4133a01b3/)
 
-![]https://raw.githubusercontent.com/MariaSventeriki/statistics/b873ecf046ce8658a8fa68a346b8614b29d1759b/generated/languages.svg
+![](https://raw.githubusercontent.com/MariaSventeriki/statistics/b873ecf046ce8658a8fa68a346b8614b29d1759b/generated/languages.svg)
 
 
 
