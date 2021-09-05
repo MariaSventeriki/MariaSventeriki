@@ -13,7 +13,7 @@
 <img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 <img with= "80" height= "80" src= "https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
 <img with= "80" height= "80" src= "https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg"/>
-<img with= "80" height= "80" src= "https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg"/>
+<img with= "60" height= "60" src= "https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg"/>
 <img with= "80" height= "80" src= "https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png"/>
 <img with= "60" height= "60" src= "https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"/>
 <img with= "60" height= "60" src= "https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png"/>
