@@ -6,7 +6,7 @@
 # Tech tools 
 <img with= "100" height= "100" src= "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
 <img with= "100" height= "100" src= "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
-<img with= "100" height= "100" src= "http://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png"/>
+<img with= "100" height= "100" src= "https://mpng.subpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg"/>
 <img with= "100" height= "100" src= "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 <img with= "100" height= "100" src= "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 
