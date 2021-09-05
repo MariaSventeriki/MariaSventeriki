@@ -1,8 +1,5 @@
 # Hi there, it´s Maria 👋👩🏼‍💻
 
-   ![](new.gif.gif)
-
-
 * I am a Web Developer in the making with a passion for acting 🎭 and chocolate 🍫. 
 * My coding ⌨️ journey started with **HTML,CSS ,Sass, Bootstrap**,**jQuery**, **JavaScript**, **React Js** and **MERN stack**.
 * Currently working on the final project "Plantpedia" with my team 
