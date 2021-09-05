@@ -4,7 +4,7 @@
 * * Currently working on the final project "Plantpedia" with my team 
 [Blossom](https://github.com/aegli84/aegli84) [Spirit](https://github.com/NicklausDim).
 # Tech tools 
-<img src= "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
+<img with= "200" src= "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
 
 
 #### Feel free to reach me 🌍 :
