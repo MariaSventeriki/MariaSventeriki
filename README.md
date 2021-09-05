@@ -4,7 +4,7 @@
 * * Currently working on the final project "Plantpedia" with my team 
 [Blossom](https://github.com/aegli84/aegli84) [Spirit](https://github.com/NicklausDim).
 # Tech tools 
-<img src= "https://image.pngaaa.com/950/2507950-small.png"/>
+<img src= "http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png"/>
 
 
 #### Feel free to reach me 🌍 :
