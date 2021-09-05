@@ -20,8 +20,8 @@
 <img with= "80" height= "80" src= "https://www.icescrum.com/wp-content/uploads/2020/03/logo-1.png"/>
 <img with= "90" height= "90" src= "https://cdn.iconscout.com/icon/free/png-256/figma-682083.png"/>
 <img with= "60" height= "60" src= "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
-<img with= "80" height= "80" src= "https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
-<img with= "80" height= "80" src= "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/>
+<img with= "60" height= "60" src= "https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
+<img with= "60" height= "60" src= "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/>
   </ul>
   
 # Feel free to reach me 🌍 :
