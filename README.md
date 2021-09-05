@@ -8,7 +8,16 @@
 <img with= "100" height= "100" src= "https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 <img with= "100" height= "100" src= "https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
 <img with= "100" height= "100" src= "https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg"/>
-<img with= "100" height= "100" src= "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
+<img with= "100" height= "100" src= "https://icon-library.com/images/node-js-icon/node-js-icon-11.jpg"/>
+<img with= "100" height= "100" src= "https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png"/>
+<img with= "100" height= "100" src= "https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"/>
+<img with= "100" height= "100" src= "https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png"/>
+
+<img with= "100" height= "100" src= "https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png"/>
+<img with= "100" height= "100" src= ""/>
+<img with= "100" height= "100" src= ""/>
+<img with= "100" height= "100" src= ""/>
+
 
 
 
