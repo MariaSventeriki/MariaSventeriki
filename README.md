@@ -22,8 +22,10 @@
 <img with= "80" height= "80" src= "https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
 <img with= "80" height= "80" src= "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/>
   </ul>
+  
 #### Feel free to reach me 🌍 :
 mariasventeriki@gmail.com or [Linkedin](https://www.linkedin.com/in/maria-sventeriki-4133a01b3/)
+
 # Statistics
 ![](https://raw.githubusercontent.com/MariaSventeriki/statistics/b873ecf046ce8658a8fa68a346b8614b29d1759b/generated/languages.svg)
 ![](https://raw.githubusercontent.com/MariaSventeriki/statistics/b873ecf046ce8658a8fa68a346b8614b29d1759b/generated/overview.svg)
