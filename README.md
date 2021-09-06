@@ -1,5 +1,5 @@
 ## Hi there, it´s Maria 👋👩🏼‍💻
-![](Welcome to Matrix.gif)
+![](matrix.gif)
 
 # About me
 * I am a Junior full-stack web dev focusing on Frontend and the MERN stack with a passion for acting 🎭 and chocolate 🍫. 
