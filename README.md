@@ -1,5 +1,5 @@
 ## Hi there, it´s Maria 👋👩🏼‍💻
-https://user-images.githubusercontent.com/68229811/132145197-2410a0a4-0311-4658-bdbe-1ddeb047d6de.mp4
+
 
 # About me
 * I am a Junior full-stack web dev focusing on Frontend and the MERN stack with a passion for acting 🎭 and chocolate 🍫. 
