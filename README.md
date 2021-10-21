@@ -3,8 +3,7 @@
 
 # About me
 * I am a Junior full-stack web dev focusing on Frontend and the MERN stack with a passion for acting 🎭 and chocolate 🍫. 
-* * Currently working on the final project "Plantpedia" with my team 
-[Blossom](https://github.com/aegli84/aegli84) [Spirit](https://github.com/NicklausDim).
+* * Currently doing my Internship at Cleverlohn.
 
 # Tech tools 
 <img with= "30" height= "30" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/> &nbsp; &nbsp;<img with= "30" height= "30" src= "https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg"/> &nbsp; &nbsp;<img with= "30" height= "30" src= "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"/> &nbsp; &nbsp;<img with= "30" height= "30" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/2048px-Devicon-css3-plain.svg.png"/> &nbsp; &nbsp;
