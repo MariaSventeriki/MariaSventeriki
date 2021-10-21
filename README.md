@@ -2,7 +2,7 @@
 ![](matrix.gif)
 
 # About me
-* I am a Junior full-stack web dev focusing on Frontend and the MERN stack with a passion for acting 🎭 and chocolate 🍫. 
+* I am a Junior full-stack web dev focusing on Frontend with a passion for acting 🎭 and chocolate 🍫. 
 * * Currently doing my Internship at Cleverlohn.
 
 # Tech tools 
